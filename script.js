@@ -87,7 +87,7 @@ switch (winOption) {
     switchMessage = "Rock crushes Scissors";
     break;
     case "P":
-    switchMessage = "paper covers Scissors";
+    switchMessage = "paper covers Rock";
     break;
     case "S":
     switchMessage = "Scissors cut paper";
